@@ -3,7 +3,7 @@
 <strong>Plugin Name: Custom Login & SSO
 Description: A WordPress plugin for API login and Single Sign-On.
 Version: 1.0
-Author: Vijay mishra & Shantanu Goswami
+Author: Vijay Mishra
 </strong>
 <h3>Instructions:</h3>
 
@@ -11,7 +11,7 @@ After downloading the plugin you need to do
 <b>composer install</b>
 to install all dependencies. 
 Also you need Google OAuth Credentials
-for now use test environment and user <b>shaanjyot13@gmail.com</b> was used for testing.
+for now use test environment and user <b>vijaysuper11@gmail.com</b> was used for testing.
 
 <h3>Get Go0gle OAuth Credentials:</h3>
 <ul>
