@@ -3,7 +3,7 @@
 <strong>Plugin Name: Custom Login & SSO
 Description: A WordPress plugin for API login and Single Sign-On.
 Version: 1.0
-Author: Shantanu Goswami
+Author: Vijay mishra & Shantanu Goswami
 </strong>
 <h3>Instructions:</h3>
 
